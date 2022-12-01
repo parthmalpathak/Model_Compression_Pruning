@@ -1,2 +1,2 @@
-# Model_Compression_(Pruning)
+# ModelCompression: Pruning
 Implementation of Magnitude Pruning
