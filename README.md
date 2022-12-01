@@ -15,7 +15,7 @@ This implementation utilizes a **dataset which is not available for public usage
 
 [Code](https://github.com/parthmalpathak/Model_Compression_Pruning/blob/main/Magnitude%20Pruning.ipynb) has two different implementations:
 * Retrain Attempt:
-Inducing sparsity every iteration which retraining.
+Inducing sparsity every iteration while retraining.
 
 * Baseline Attempt:
 Inducing sparsity by making the weight values beyond a certain threshold equal to 0.0.
