@@ -1,7 +1,7 @@
 # ModelCompression: Pruning
 
 ## Overview
-Implementation of [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) by Han S., Pool J., et al.
+Tensorflow based implementation of [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) by Han S., Pool J., et al.
 
 Pruning is a Model Compression Technique which allows the user to compress the model to a smaller size while maintaining marginal loss in accuracy. Pruning also allows the model to be optimized for real time inference for resource-constrained devices.
 
