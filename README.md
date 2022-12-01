@@ -1,4 +1,4 @@
-# ModelCompression: Pruning
+# Model Compression: Pruning
 
 ## Overview
 Tensorflow based implementation of [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) by Han S., Pool J., et al.
