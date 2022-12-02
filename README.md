@@ -18,4 +18,4 @@ This implementation utilizes a **dataset which is not available for public usage
 Inducing sparsity every iteration while retraining.
 
 * Baseline Attempt:
-Inducing sparsity by making the weight values beyond a certain threshold equal to 0.0.
+Inducing sparsity by making the weight values beyond a certain threshold equal to 0.0 without retraining.
