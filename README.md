@@ -14,8 +14,8 @@ For more information on Model Compression and Pruning, please read [Model Compre
 This implementation utilizes a **dataset which is not available for public usage**. But this implementation can be utilized on other datasets. 
 
 [Code](https://github.com/parthmalpathak/Model_Compression_Pruning/blob/main/Magnitude%20Pruning.ipynb) has two different implementations:
-* Retrain Attempt:
+* **Retrain Attempt:**
 Inducing sparsity every iteration while retraining.
 
-* Baseline Attempt:
+* **Baseline Attempt:**
 Inducing sparsity by making the weight values beyond a certain threshold equal to 0.0 without retraining.
