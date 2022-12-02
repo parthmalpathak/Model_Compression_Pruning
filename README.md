@@ -5,10 +5,10 @@ Tensorflow based implementation of [Learning both Weights and Connections for Ef
 
 Pruning is a Model Compression Technique which allows the user to compress the model to a smaller size while maintaining marginal loss in accuracy. Pruning also allows the model to be optimized for real time inference for resource-constrained devices.
 
-For more information on Model Compression and Pruning, please read [Model Compression via Pruning](https://towardsdatascience.com/model-compression-via-pruning-ac9b730a7c7b)
+For more information on Model Compression and Pruning, please read [Model Compression via Pruning](https://towardsdatascience.com/model-compression-via-pruning-ac9b730a7c7b).
 
 ## Concepts Utilised
-* **Magnitude Based Pruning**
+* **Magnitude Based Pruning.**
 
 ## Explanation
 This implementation utilizes a **dataset which is not available for public usage**. But this implementation can be utilized on other datasets. 
