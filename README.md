@@ -19,3 +19,8 @@ Inducing sparsity every iteration while retraining.
 
 * **Baseline Attempt:**
 Inducing sparsity by making the weight values beyond a certain threshold equal to 0.0 without retraining.
+
+## Copyright
+Author [@Parth Malpathak](https://github.com/parthmalpathak)
+
+All the codes and implementatations are a part of 10605 (Machine Learning for Large Datasets) course requirements. Please go through the academic integrity policy of Carnegie Mellon University before cloning this repository and duplicating the codes.
